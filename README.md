@@ -12,6 +12,11 @@ TextVista is a React-based text utility app offering essential tools like text c
 - Count Word: Count the number of words in your text.
 - Count Character: Count the number of characters in your text.
 
+## Made with ❤️
+
+Thank you for checking out TextVista! If you find this project helpful or have suggestions for improvement, feel free to contribute or provide feedback. Your support is greatly appreciated! 😊
+
+
 
 
 
