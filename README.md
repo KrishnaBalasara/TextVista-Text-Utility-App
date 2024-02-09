@@ -17,5 +17,5 @@ TextVista is a React-based text utility app offering essential tools like text c
 To run this project locally on your machine, follow these steps:
 
 1. Clone this repository to your local machine using:
-   - git clone https://github.com/your-username/TextVista.git
+   git clone https://github.com/KrishnaBalasara/TextVista.git
 
