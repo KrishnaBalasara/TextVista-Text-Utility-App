@@ -1,0 +1,27 @@
+.accordion-button::after {
+    filter: invert(1);
+}
+
+.div{
+    background-color: #060830;
+    display: flex;
+    align-items: center;
+    color: white;
+    height: 80px;
+    justify-content: center;
+    text-align: center;
+}
+
+
+
+.btn {
+    background-color: rgb(37, 79, 206);
+    color: white;
+    border-radius: 15px;
+}
+
+.btn:hover {
+    background-color: rgb(31, 187, 25);
+    color: white;
+}
+
