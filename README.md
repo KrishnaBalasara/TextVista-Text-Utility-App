@@ -11,3 +11,11 @@ TextVista is a React-based text utility app offering essential tools like text c
 - Capitalize: Capitalize the first letter of each word.
 - Count Word: Count the number of words in your text.
 - Count Character: Count the number of characters in your text.
+
+##Installation
+
+To run this project locally on your machine, follow these steps:
+
+1. Clone this repository to your local machine using:
+   - git clone https://github.com/your-username/TextVista.git
+
